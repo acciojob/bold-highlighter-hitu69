@@ -1,4 +1,4 @@
- para1.addEventListener("mouseover",highlight)
+ // para1.addEventListener("mouseover",highlight)
  function highlight(){
 	 // para.forEach((word)=>word.style.color="blue")
     // para.style.color="blue"
